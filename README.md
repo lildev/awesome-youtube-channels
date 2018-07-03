@@ -9,6 +9,7 @@
 * [SciShow](https://www.youtube.com/user/scishow)
 * [TED-Ed](https://www.youtube.com/user/TEDEducation)
 * [Meet Arnold](https://www.youtube.com/channel/UCY3TJECrA90t9YTrxhdjcVw)
+* [PolyMatter](https://www.youtube.com/channel/UCgNg3vwj3xt7QOrcIDaHdFg/featured)
 * [Numberphile](https://www.youtube.com/user/numberphile)
 * [Computerphile](https://www.youtube.com/user/Computerphile)
 
