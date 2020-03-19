@@ -12,6 +12,7 @@
 * [PolyMatter](https://www.youtube.com/channel/UCgNg3vwj3xt7QOrcIDaHdFg/featured)
 * [Numberphile](https://www.youtube.com/user/numberphile)
 * [Computerphile](https://www.youtube.com/user/Computerphile)
+* [Primer](https://www.youtube.com/channel/UCKzJFdi57J53Vr_BkTfN3uQ/videos)
 
 # Just for Fun
 
